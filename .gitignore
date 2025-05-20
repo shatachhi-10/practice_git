@@ -1,1 +1,2 @@
 -e "*.log\n.DS_Store\nbuild/" 
+"temp.log" 
