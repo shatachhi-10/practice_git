@@ -1,1 +1,5 @@
-".subscribe { backgroud: blue; padding: 10px; }" 
+.subscribe-btn {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
