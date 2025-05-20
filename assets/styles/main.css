@@ -1,1 +1,6 @@
-"body { background: #111; color: #eee;}" 
+.subscribe-btn {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+
